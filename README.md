@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Psych (@6vk)
+- 👀 I’m interested in: Software Development & Graphic Design.
+- 🌱 I’m currently learning: Python & C++
+- 💞️ I’m looking to collaborate on: N/A
+- 📫 How to reach me: p@realm.network
