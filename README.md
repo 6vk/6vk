@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Psych (@6vk)
+- 👋 Hi, I’m Pronto (Brax)
 
 - 📫 How to reach me: p@realm.network
