@@ -5,7 +5,7 @@ Check out my profile and repositories
 + Leave a star?
  ─────────────
      Name  =  "polo"
-Interests  =  "Make Money, Development, Finance"
+Interests  =  "Money, Development, Mechanics"
 Languages  =  "HTML, CSS, JS, C#, C++, VB.NET & Python"
   Discord  =  "https://discord.gg/GmhE6nKcsP"
 ```
