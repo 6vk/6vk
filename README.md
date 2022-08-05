@@ -8,4 +8,5 @@ Check out my profile and repositories
 Interests  =  "Money, Development, Mechanics"
 Languages  =  "HTML, CSS, JS, C#, C++, VB.NET & Python"
   Discord  =  "https://discord.gg/GmhE6nKcsP"
+ Biolinks  =  "https://cigarette.cf/"
 ```
