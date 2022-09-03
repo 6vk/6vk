@@ -4,7 +4,7 @@
 Check out my profile and repositories
 + Leave a star?
  ─────────────
-     Name  =  "polo"
+     Name  =  "pronto"
  Location  =  "United States"
 Interests  =  "Money, Development, Mechanics"
 Languages  =  "HTML, CSS, JS, C#, C++, VB.NET & Python"
